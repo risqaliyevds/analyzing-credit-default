@@ -10,11 +10,12 @@ Once you have cloned the repository, you can install the required packages by ru
 
 Copy code:
 pip install -r requirements.txt
+
 ### Data
 The data used for this analysis is located in the data directory. The credit-data.csv file contains information about credit applicants, including their age, income, and credit score.
 
 ### Notebook
-The analysis is contained in the [Analyzing Credit Default.ipynb](Analyzing Credit Default.ipynb) notebook, which is located in the root directory. The notebook is organized as follows:
+The analysis is contained in the Analyzing Credit Default.ipynb notebook, which is located in the root directory. The notebook is organized as follows:
 
 * Introduction: A brief overview of the analysis and its objectives.
 * Import Libraries: Importing the required libraries for the analysis.
